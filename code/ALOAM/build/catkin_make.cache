@@ -1,0 +1,2 @@
+A-LOAM
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu2004/ALOAM/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu2004/ALOAM/install -G Unix Makefiles
